@@ -1,0 +1,11 @@
+Milestone	Deliverable
+1	Create and display notifications
+2	Store and retrieve notifications using collections
+3	Add update, delete, filtering, and unread counts
+4	Introduce custom exceptions and validation
+5	Add interfaces and multiple notification channels
+6	Persist data in files
+7	Make operations thread-safe
+8	Add asynchronous notification processing
+9	Expose functionality through HTTP
+10	Write tests and refactor for clean design
