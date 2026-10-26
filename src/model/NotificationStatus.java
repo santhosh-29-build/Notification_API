@@ -4,16 +4,12 @@ public class NotificationStatus {
     
     private boolean status;
 
-    public NotificationStatus(boolean status) {
-        this.status=status;
-    }
-
-    public boolean isStatus() {
+    public boolean getStatus() {
         return status;
     }
 
     public void setStatus(boolean status) {
-        this.status = true;
+        this.status = status;
     }
 
     
